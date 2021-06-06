@@ -1,0 +1,27 @@
+.spacer {
+    flex: 1 1 auto;
+}
+
+.bg-blue {
+    background-color: #3F51B5;
+}
+
+.text-white {
+    color: #FFF;
+}
+
+.my-2em{
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.px-0 {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.fixed-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
