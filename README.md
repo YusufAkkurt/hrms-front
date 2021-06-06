@@ -4,12 +4,12 @@
 
 ### UML Component Diagram
 
-***
 ![UML Component Diagram](public/git-srcs/hrms-uml-diagram.png)
 ***
 
 ### Ekran Görüntüsü
 ![JobAd List](public/git-srcs/job-ads.png)
+***
 
 ### Kurulum / Installation
 
