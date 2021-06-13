@@ -15,9 +15,18 @@
     margin-bottom: 2em;
 }
 
+.mt-5em{
+    margin-top: 15em;
+}
+
 .px-0 {
     padding-left: 0 !important;
     padding-right: 0 !important;
+}
+
+.MuiSelect-outlined.MuiSelect-outlined {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
 }
 
 .fixed-bottom {
