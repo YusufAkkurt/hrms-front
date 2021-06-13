@@ -8,7 +8,7 @@
 ***
 
 ### Ekran Görüntüsü
-![JobAd List](public/git-srcs/job-ads.png)
+![JobAd List](public/git-srcs/hrms.gif)
 ***
 
 ### Kurulum / Installation
